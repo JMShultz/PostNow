@@ -20,7 +20,7 @@
   
  
   link to my deployed application:
-[PostNow](https://easynotes-9190f6d849c6.herokuapp.com/)
+[PostNow]
 
   
   ## License
