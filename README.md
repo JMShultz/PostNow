@@ -1,7 +1,7 @@
 # PostNow
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  allows users to comment,post and see posts made.
+  allows users to comment,post and see posts made..
 
   ## Table Of Contents
   * [instalation](#instalation)
